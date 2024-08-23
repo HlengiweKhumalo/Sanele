@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background: url(./pexels-benoit-roy-1445513124-26748281.jpg) no-repeat center/ cover;
+    height: 100vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: auto;
+    border: 2px white;
+}
+
+header{
+    background-color: #999;
+}
+
+header nav h1 {
+    float: left;
+    padding: 10px;
+}
+
+header nav ul{
+    float: right;
+}
+
+header nav ul li{
+    display: inline;
+}
+
+header nav ul li a{
+    font-size: 18px;
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+}
+
+header nav ul li a:hover{
+    color: blue;
+    background-color: lightgray;
+}
+
+h1.intro {
+text-align: center;
+color: black;
+font-size: 40px;
+margin: 40px;
+}
+
+form{
+    max-width: 400px;
+    margin: auto;
+    background-color: aqua;
+    padding: 10px;
+    padding-top: 30px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+form label{
+    display: block;
+    color: #999;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
